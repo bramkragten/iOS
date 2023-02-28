@@ -1,6 +1,6 @@
 "0aqrcy" = "Échec : ${error}";
 "2KWKqM" = "Échec: Home Assistant n'est pas accessible pour le moment.";
-"2LIxe4" = "Failed: ${error}";
+"2LIxe4" = "échec ${error}";
 "2b0Uo4" = "Service";
 "3jKamg" = "{{ now() }}";
 "4fFx9y" = "Mis à jour";
@@ -16,7 +16,7 @@
 "A1pokw" = "Ask for Assistance";
 "B28HAk" = "Assist";
 "B4bXyc" = "Fait";
-"BafuI1" = "Language";
+"BafuI1" = "langue";
 "BwZv3u" = "Quel serveur ?";
 "CmlkE4" = "événement_raccourci";
 "DFWJB8" = "Ouvrir ${page}";
@@ -51,7 +51,7 @@
 "NdG9Jz" = "Afficher le modèle d'Home Assistant";
 "NsbUTz" = "Entité caméra";
 "Q2Qp4a" = "Action";
-"QCGKRz" = "Which language?";
+"QCGKRz" = "Quel langue ?";
 "QVD2lM" = "Données du service";
 "QmGpOH" = "Erreur";
 "RCQAlr" = "Obtenir l’image depuis la caméra ${cameraID}";
@@ -85,7 +85,7 @@
 "flUgtx" = "Quelle action ?";
 "fnz838" = "Capteurs mis à jour";
 "foI0Fv" = "Échec du rendu du modèle, Home Assistant n'est pas accessible pour le moment.";
-"ftQHJw" = "Which server?";
+"ftQHJw" = "Quel serveur";
 "fuRWMi" = "Envoyer ${location} à Home Assistant";
 "g8g7Af" = "Effectuer l'action";
 "gI3mme" = "Quelles données de service voulez-vous envoyer?";
@@ -95,8 +95,8 @@
 "h1xQ53" = "Mise à jour des capteurs";
 "hKNPaD" = "Serveur";
 "hLFNfv" = "Échec : ${error}";
-"hXWHln" = "Server";
-"hfoDeC" = "Intent Language";
+"hXWHln" = "Serveur";
+"hfoDeC" = "Langue";
 "hhPmPc" = "JSON";
 "hsrlTY" = "Obtenez une seule image fixe d'un appareil photo";
 "iMvUhs" = "Ouvrir la page";
@@ -111,7 +111,7 @@
 "mJ6CrP" = "Échec de l'envoi de ${eventName} : ${error}";
 "mZnRHS" = "Envoi avec succès de ${eventName} à Home Assistant";
 "mi6B62" = "Quelles données voulez-vous envoyer avec l'événement ?";
-"ni0OSe" = "Just to confirm, you wanted ‘${server}’?";
+"ni0OSe" = "Juste pour confirmer, vouv vouliez ‘${server}’ ?";
 "ns9RRU" = "Ouvrir la page";
 "nzqmFA" = "Fait";
 "oHn0vD" = "Pages";
@@ -130,17 +130,17 @@
 "sNFoWe" = "Quelle caméra ?";
 "sQJAJS" = "Erreur";
 "sfDGvk" = "Modèle rendu";
-"txfcnn" = "Text";
+"txfcnn" = "texte";
 "tycImk" = "Effectue une action définie dans l'application";
-"uqeIcc" = "Assist with \"${text}\"";
+"uqeIcc" = "aider de \"${text}\"";
 "v7TSD5" = "Envoyer l'emplacement";
 "vAIAF2" = "Envoyer une mise à jour du capteur à Home Assistant";
 "vebd70" = "Serveur";
 "wfPQQQ" = "Déclencher un événement dans le bus d'événement d'Home Assistant";
-"xN51te" = "Result";
+"xN51te" = "Résultat";
 "xfXG6b" = "Quel serveur ?";
 "xhwpj4" = "Terminé !";
 "ypnPyU" = "Effectuer ${action}";
 "yyjTxO" = "Erreur";
-"zIiPij" = "${result}";
+"zIiPij" = "$ {result}";
 "zjdBxm" = "Quelle page?";

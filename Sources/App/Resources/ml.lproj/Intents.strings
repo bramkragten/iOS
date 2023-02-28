@@ -130,14 +130,14 @@
 "sNFoWe" = "Which camera?";
 "sQJAJS" = "Error";
 "sfDGvk" = "Rendered Template";
-"txfcnn" = "Text";
+"txfcnn" = "വാചകം";
 "tycImk" = "Performs an action defined in the app";
 "uqeIcc" = "Assist with \"${text}\"";
 "v7TSD5" = "Send Location";
 "vAIAF2" = "Send a sensor update to Home Assistant";
 "vebd70" = "സെർവർ";
 "wfPQQQ" = "Fire an event to the Home Assistant event bus";
-"xN51te" = "Result";
+"xN51te" = "ഫലം";
 "xfXG6b" = "ഏത് സെർവർ?";
 "xhwpj4" = "Done";
 "ypnPyU" = "Perform ${action}";
